@@ -10,6 +10,7 @@ import {
   NavbarText
 } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+//Website mengandung beberapa page dengan routing menggunakan React Router (react-router-dom).
 import { 
   BrowserRouter as Router,
   Switch,

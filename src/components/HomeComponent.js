@@ -2,7 +2,8 @@ import React, { Fragment } from 'react';
 import '../App.css';
 import { Card, CardBody, CardText } from "reactstrap";
 
-
+// Component yang digunakan harus ada kedua-duanya yaitu Class dan Function Component.
+// Menerapkan metode Composing, Extracting Component dan Lifting State Up.
 class DistanceInput extends React.Component {
   
   _handleChange = (e) => {

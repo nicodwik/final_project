@@ -2,6 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Card, CardBody, Button, Form, FormGroup } from "reactstrap";
 
+// Terdapat form (boleh Uncontrolled maupun controlled) dan juga lists.
 class UserComponent extends React.Component {
   constructor(props) {
     super(props);

@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// Website dibangun menggunakan React JS dengan framework CRA.
 ReactDOM.render(
   <React.StrictMode>
     <App />
